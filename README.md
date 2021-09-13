@@ -1,0 +1,2 @@
+# House_Price_Prediction
+The Bangalore housing dataset from Kaggle is used to build a machine learning model that can predict the price of any house. The user only needs to specify the no. of bedrooms and bathrooms, total square feet of area, and the location of the house for which a predicted price is needed. Several steps of data cleaning, feature engineering, and outlier removal are done using the Python pandas library.   
